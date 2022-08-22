@@ -1,5 +1,5 @@
 # university-projects
-Code for projects completed in my certificate program in Data Science &amp; Business Analytics, delivered by Great Learning through the University of Texas at Austin.
+This repository contains code for projects completed in my certificate program in Data Science &amp; Business Analytics, delivered by Great Learning through the University of Texas at Austin.
 
 The files included in this repository are the code for the projects I completed while pursuing a data science certificate from UT Austin. There are 7 projects included, and the file titles signify the class topic and the name of the case we were studying.
 
